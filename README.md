@@ -4,7 +4,7 @@ A recreation of the New York Times web-based word game "Wordle".
 
 ## Description
 
-This recreation was chosen as a simple project with the motivation and intention to practice working in Unity. By working on this project, I gained more experience using the Unity UI components and got more familiar and comfortable working with C# syntax and logic.
+This recreation was chosen as a simple project with the motivation and intention to practice working in Unity. By working on this project, I gained more experience using the Unity UI components and got more familiar and comfortable working with C# syntax and logic. The C# scripts were written using Microsoft Visual Studio 2022.
 
 ## Getting Started
 
