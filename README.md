@@ -19,7 +19,7 @@ This recreation was chosen as a simple project with the motivation and intention
 ### Executing program
 
 To run the game without editing it
-* download the ".exe" file to your local machine
+* download the "Wordle.exe" file to your local machine
 * locate the downloaded file
 * double click the file
 * the game will load and launch
